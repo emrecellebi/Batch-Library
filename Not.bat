@@ -3,6 +3,7 @@ REM !----------------> Symbol <----------------!
 
 REM !----------------> Commands <----------------!
 dir					REM Klasör ve Dosyaları listeler
+	/B				REM Başlık bilgisi yada özeti verilmez.
 cls					REM Console penceresini temizler
 ver					REM Windows versiyonunu verir.
 pause				REM Bekletme komutu
