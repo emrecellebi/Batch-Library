@@ -45,6 +45,11 @@ cd					REM Change Directory
 mkdir				REM Create Directory
 rmdir				REM Delete Directory
 del					REM Delete File
+move				REM File Move
+copy				REM File Copy
+type				REM Dosya içeriğini console da göster
+color				REM Foreground ve Background renkleri
+prompt				REM Cmd prompt değiştir.
 
 REM !----------------> Executable <----------------!
 choice				REM 
