@@ -50,8 +50,10 @@ copy				REM File Copy
 type				REM Dosya içeriğini console da göster
 color				REM Foreground ve Background renkleri
 prompt				REM Cmd prompt değiştir.
+exit				REM 
+pushd				REM
 
 REM !----------------> Executable <----------------!
 choice				REM 
 help				REM Komutlar hakkında bilgi verir.
-
+findstr				REM
