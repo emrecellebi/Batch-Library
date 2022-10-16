@@ -1,0 +1,14 @@
+IP --> Internet Protocol
+DNS --> Domain Name Server
+LAN --> Local Area Network
+
+!----------------> Executable <----------------!
+choice				# 
+help				# Komutlar hakkında bilgi verir.
+findstr				#
+ipconfig			#
+	/all			# Detaylı bilgi ver
+nslookup			# 
+	> nulshell.com	# 
+	> help			# Yardım dökümanı
+	> exit			# Çıkış
